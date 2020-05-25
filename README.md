@@ -21,6 +21,8 @@ In addition to the recommendations provided to them in the home view, user can a
 
 <br>
 Here’s the full list.  Clicking on the heart button at the top right corner of the screen, user will be able to filter the full list and see only their favourites.
+<br>
+
 <img src="browse_list.JPG" width="500">
 <br>
 <br>
@@ -32,14 +34,15 @@ Now, they can either add this activity to the calendar/reminder by clicking on t
 For each activity, user will be given a suggested duration of the workout, but they also have the option to adjust it according to their needs.
 
 <img src="get_started.JPG" width="500">
+
 <br>
 
 After hitting the Done button, a quick survey pops out, asking for their feedback, which will further help the app improve its recommendation system (powered by the collaborative filtering algorithm).
 
-<img src="get_started_1.JPG" width="500">
 <br>
+<img src="get_started_1.JPG" width="500">
 
-
+<br>
 <br>
 
 ## 4. Plan View
@@ -66,3 +69,10 @@ Finally, this lovely app also has an event wall featuring all the fun stuff goin
 
 <img src="event_view.jpeg" width="800">
 
+<br>
+<br>
+
+# Try it!!
+#### via Appetize: https://appetize.io/app/3ja8m52e3c1fma55b3kyyfk3t8
+#### via TestFlight: https://testflight.apple.com/join/Ep5H6EsO
+#### visit GitHub: https://github.com/kartbnb/ActiDiabet
