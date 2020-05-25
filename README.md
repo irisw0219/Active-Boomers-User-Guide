@@ -26,6 +26,7 @@ Here’s the full list.  Clicking on the heart button at the top right corner of
 <img src="browse_list.JPG" width="500">
 <br>
 <br>
+<br>
 
 ## 3. Activity View
 Once user has decided which activity to they want to do, they simply click on that button, and here comes this activity view.
