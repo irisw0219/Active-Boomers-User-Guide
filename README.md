@@ -75,7 +75,6 @@ Finally, this lovely app also has an event wall featuring all the fun stuff goin
 Oh hey, what a lovely workout app, am I right? 
 <br>
 <br>
-
 <img src="home_view.jpeg" width="700">
 
 <br>
