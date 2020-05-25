@@ -35,7 +35,7 @@ Now, they can either add this activity to the calendar/reminder by clicking on t
 
 For each activity, user will be given a suggested duration of the workout, but they also have the option to adjust it according to their needs.
 
-<img src="get_started_duration.JPG" width="800">
+<img src="get_started_time.JPG" width="620">
 
 <br>
 After hitting the Done button, a quick survey pops out, asking for their feedback, which will further help the app improve its recommendation system (powered by the collaborative filtering algorithm).
