@@ -7,7 +7,7 @@ UI demo of the iOS health app Active Boomers - a simple but lovely iOS workout h
 The purpose of the app is very simple and straight forward: helping seniors stay physically active. Let’s get started with the home view.
 The home view provides two recommended activities for the day (along with date/weather info at the top) as well as a dashboard that tracks your weekly achievements.
 
-<img src="home.png" width="600">
+<img src="home.png" width="700">
 <br>
 <br>
 <br>
@@ -66,16 +66,10 @@ Also, if you click on one of these icons, you will be able to see a popup for mo
 <br>
 
 ## 6. Event View
-Finally, this lovely app also has an event wall featuring all the fun stuff going on in the area. 
+Finally, this lovely app also has an event wall featuring all the fun stuff going on in the area. Oh hey, what a lovely workout app, am I right? 
 <br>
 
-<img src="event_view.jpeg" width="700">
-<br>
-<br>
-Oh hey, what a lovely workout app, am I right? 
-<br>
-<br>
-<img src="home_view.jpeg" width="700">
+<img src="event_view.JPG" width="700">
 
 <br>
 <br>
