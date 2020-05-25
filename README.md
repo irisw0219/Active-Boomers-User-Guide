@@ -72,11 +72,15 @@ Finally, this lovely app also has an event wall featuring all the fun stuff goin
 <img src="event_view.jpeg" width="700">
 
 <br>
-Oh hey, what a lovely workout app, am I right? Now, why don’t you just go ahead and download this app and enjoy it? Cheers to the healthier and happier lifestyle!
+Oh hey, what a lovely workout app, am I right? 
+<br>
 <br>
 
 <img src="home_view.jpeg" width="700">
 
+<br>
+<br>
+Now, why don’t you just go ahead and download this app and enjoy it? Cheers to the healthier and happier lifestyle!
 <br>
 <br>
 
