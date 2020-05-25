@@ -46,7 +46,7 @@ After hitting the Done button, a quick survey pops out, asking for their feedbac
 <br>
 
 ## 4. Plan View
-Remeber that user has the option to schedule a workout. Now, if you go to the below plan view, you will be able to see the activities that you have done and the ones you planning on doing. 
+Remeber that user has the option to schedule a workout. Now, if you go to the below plan view, you will be able to see the activities that you have done and the ones you planning on doing. You can also edit/change those plans as needed.
 <br>
 <img src="plan_view.PNG" width="500">
 
@@ -59,7 +59,7 @@ We have also implemented day/night mode, providing different feels on different 
 
 <img src="map_view.jpeg" width="700">
 
-Also, if you click on one of these icons, you will be able to see a popup for more info about that particular location/facility. And if you go ahead and click on the popup, you will be directed to Apple Maps and be able to use their navigation functions directly.
+Also, if you click on one of these icons, you will be able to see a popup for more info about that particular location/facility. And if you go ahead and click on the popup, you will be directed to [Apple Maps](https://www.apple.com/au/ios/maps/) and be able to use their navigation functions directly.
 
 <br>
 <br>
