@@ -70,7 +70,6 @@ Finally, this lovely app also has an event wall featuring all the fun stuff goin
 <br>
 
 <img src="event_view.jpeg" width="700">
-
 <br>
 Oh hey, what a lovely workout app, am I right? 
 <br>
