@@ -38,7 +38,6 @@ For each activity, user will be given a suggested duration of the workout, but t
 <img src="get_started.JPG" width="600">
 
 <br>
-
 After hitting the Done button, a quick survey pops out, asking for their feedback, which will further help the app improve its recommendation system (powered by the collaborative filtering algorithm).
 <br>
 <br>
