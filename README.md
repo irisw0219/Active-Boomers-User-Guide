@@ -1,4 +1,4 @@
-# Just a Quick UI Tour
+# active_boomers_demo
 UI demo of the iOS health app Active Boomers - a simple but lovely iOS workout helper designed for seniors (or beginners!)
 <br>
 <br>
