@@ -10,6 +10,7 @@ The home view provides two recommended activities for the day (along with date/w
 <img src="home_view.jpeg" width="700">
 <br>
 <br>
+<br>
 
 ## 2. Browse View
 In addition to the recommendations provided to them in the home view, user can also go directly to the browse view to search for particular exercises that interest them.
@@ -73,7 +74,7 @@ Finally, this lovely app also has an event wall featuring all the fun stuff goin
 <br>
 <br>
 
-# Try it!!
+# Try it now!!
 #### [via Appetize](https://appetize.io/app/3ja8m52e3c1fma55b3kyyfk3t8)
 #### [via TestFlight](https://testflight.apple.com/join/Ep5H6EsO)
 #### [visit GitHub](https://github.com/kartbnb/ActiDiabet)
