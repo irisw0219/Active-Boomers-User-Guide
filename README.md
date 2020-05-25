@@ -16,7 +16,7 @@ The home view provides two recommended activities for the day (along with date/w
 In addition to the recommendations provided to them in the home view, user can also go directly to the browse view to search for particular exercises that interest them.
 <br>
 <br>
-<img src="browse_l1.png" width="800">
+<img src="browse_filter.JPG" width="800">
 <br>
 
 
@@ -24,7 +24,7 @@ In addition to the recommendations provided to them in the home view, user can a
 Here’s a full list of indoor aerobic activities.  Clicking on the heart button at the top right corner of the screen, user will be able to filter the full list and see only their favourites.
 <br><br>
 
-<img src="browse_favs.JPG" width="800">
+<img src="browse_list.JPG" width="600">
 <br>
 <br>
 <br>
@@ -35,13 +35,13 @@ Now, they can either add this activity to the calendar/reminder by clicking on t
 
 For each activity, user will be given a suggested duration of the workout, but they also have the option to adjust it according to their needs.
 
-<img src="get_started_duration.png" width="800">
+<img src="get_started_duration.JPG" width="800">
 
 <br>
 After hitting the Done button, a quick survey pops out, asking for their feedback, which will further help the app improve its recommendation system (powered by the collaborative filtering algorithm).
 <br>
 <br>
-<img src="get_started_done.JPG" width="800">
+<img src="get_started2.JPG" width="800">
 
 <br>
 <br>
