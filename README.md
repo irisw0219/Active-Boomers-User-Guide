@@ -7,7 +7,7 @@ UI demo of the iOS health app Active Boomers - a simple but lovely iOS workout h
 The purpose of the app is very simple and straight forward: helping seniors stay physically active. Let’s get started with the home view.
 The home view provides two recommended activities for the day (along with date/weather info at the top) as well as a dashboard that tracks your weekly achievements.
 
-<img src="home.png" width="800">
+<img src="README_img/home.png" width="800">
 <br>
 <br>
 <br>
@@ -16,7 +16,7 @@ The home view provides two recommended activities for the day (along with date/w
 In addition to the recommendations provided to them in the home view, user can also go directly to the browse view to search for particular exercises that interest them.
 <br>
 <br>
-<img src="browse_filter.JPG" width="800">
+<img src="README_img/browse_filter.JPG" width="800">
 <br>
 
 
@@ -24,7 +24,7 @@ In addition to the recommendations provided to them in the home view, user can a
 Here’s a full list of indoor aerobic activities.  Clicking on the heart button at the top right corner of the screen, user will be able to filter the full list and see only their favourites.
 <br><br>
 
-<img src="browse_favs_new.JPG" width="600">
+<img src="README_img/browse_favs_new.JPG" width="600">
 <br>
 <br>
 <br>
@@ -35,13 +35,13 @@ Now, they can either add this activity to the calendar/reminder by clicking on t
 
 For each activity, user will be given a suggested duration of the workout, but they also have the option to adjust it according to their needs.
 
-<img src="get_started_time.JPG" width="620">
+<img src="README_img/get_started_time.JPG" width="620">
 
 <br>
 After hitting the Done button, a quick survey pops out, asking for their feedback, which will further help the app improve its recommendation system (powered by the collaborative filtering algorithm).
 <br>
 <br>
-<img src="get_started2.JPG" width="800">
+<img src="README_img/get_started2.JPG" width="800">
 
 <br>
 <br>
@@ -49,7 +49,7 @@ After hitting the Done button, a quick survey pops out, asking for their feedbac
 ## 4. Plan View
 Remeber that user has the option to schedule a workout. Now, if you go to the below plan view, you will be able to see the activities that you have done and the ones you planning on doing. You can also edit/change those plans as needed.
 <br>
-<img src="plan_view.PNG" width="600">
+<img src="README_img/plan_view.PNG" width="600">
 
 <br>
 <br>
@@ -58,7 +58,7 @@ Remeber that user has the option to schedule a workout. Now, if you go to the be
 When an activity is categorised as an outdoor one, there’s a map available for them to explore the area. They will be able to find out all the public open spaces (parks) as well as other essential facilities nearby (eg. hospitals, toilets, seats, water fountains, bike rails, etc.)
 We have also implemented day/night mode, providing different feels on different time of the day.
 
-<img src="maps.jpeg" width="800">
+<img src="README_img/maps.jpeg" width="800">
 
 Also, if you click on one of these icons, you will be able to see a popup for more info about that particular location/facility. And if you go ahead and click on the popup, you will be directed to [Apple Maps](https://www.apple.com/au/ios/maps/) and be able to use their navigation functions directly.
 
@@ -69,7 +69,7 @@ Also, if you click on one of these icons, you will be able to see a popup for mo
 Finally, this lovely app also has an event wall featuring all the fun stuff going on in the area. Oh hey, what a lovely workout app, am I right? 
 <br>
 
-<img src="event_view.JPG" width="800">
+<img src="README_img/event_view.JPG" width="800">
 
 <br>
 <br>
