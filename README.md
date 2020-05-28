@@ -47,7 +47,7 @@ After hitting the Done button, a quick survey pops out, asking for their feedbac
 <br>
 
 ## 4. Plan View
-Remeber that user has the option to schedule a workout. Now, if you go to the below plan view, you will be able to see the activities that you have done and the ones you planning on doing. You can also edit/change those plans as needed.
+Remeber that user has the option to schedule a workout. Now, if you go to the below plan view, you will be able to see the activities that you have done and the ones you planning on doing. Also, you can easily edit/change those plans as needed.
 <br>
 <img src="README_img/plan_view.PNG" width="600">
 
@@ -56,7 +56,7 @@ Remeber that user has the option to schedule a workout. Now, if you go to the be
 
 ## 5. Map View
 When an activity is categorised as an outdoor one, there’s a map available for them to explore the area. They will be able to find out all the public open spaces (parks) as well as other essential facilities nearby (eg. hospitals, toilets, seats, water fountains, bike rails, etc.)
-We have also implemented day/night mode, providing different feels on different time of the day.
+We have also implemented day/night mode, providing different feels at different time of the day.
 
 <img src="README_img/maps.jpeg" width="800">
 
